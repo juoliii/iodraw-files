@@ -80,13 +80,7 @@
           <mxGeometry x="205" y="575" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-26" value="docker容器化与容器编排" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="398" y="575" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-27" value="kvm虚拟化" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="592" y="575" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-28" value="minio分布式存储服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="785" y="575" width="170" height="60" as="geometry" />
+          <mxGeometry x="730" y="575" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-29" value="数据治理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1000" y="254" width="90" height="90" as="geometry" />
