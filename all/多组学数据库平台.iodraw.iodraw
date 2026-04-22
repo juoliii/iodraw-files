@@ -25,7 +25,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-7" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="234" y="309.5" width="146" height="260.5" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="717" y="308.5" width="200" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-10" value="流量监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;fontSize=14;strokeColor=#b85450;" vertex="1" parent="1">
@@ -176,7 +176,7 @@
           <mxGeometry x="732.5" y="510" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="476" y="308.5" width="134" height="261.5" as="geometry" />
+          <mxGeometry x="400" y="308.5" width="134" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
           <mxGeometry width="134" height="261.5" as="geometry" />
