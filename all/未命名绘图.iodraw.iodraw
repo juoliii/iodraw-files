@@ -70,7 +70,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-22" value="服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="192" width="210" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-23" value="Spring cloud gateway&lt;br&gt;服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-23" value="服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="479" y="192" width="210" height="52" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-24" value="Spring cloud gateway&lt;br&gt;服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
