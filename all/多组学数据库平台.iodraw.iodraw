@@ -218,7 +218,7 @@
           <mxGeometry x="15.5" y="201.5" width="87.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="867" y="310" width="123" height="261.5" as="geometry" />
+          <mxGeometry x="820" y="310" width="123" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-77" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-82">
           <mxGeometry width="123" height="261.5" as="geometry" />
@@ -229,7 +229,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-79" value="用户角色管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-82">
           <mxGeometry x="14.5" y="90.5" width="88.5" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-80" value="注册登陆" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-82">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-80" value="门户首页" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-82">
           <mxGeometry x="15.5" y="35.5" width="87.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-81" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-82">
