@@ -23,7 +23,7 @@
           <mxGeometry x="210" y="290" width="740" height="290" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-7" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="234" y="309.5" width="200" height="260.5" as="geometry" />
+          <mxGeometry x="234" y="309.5" width="146" height="260.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="476" y="308.5" width="200" height="261.5" as="geometry" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-12" value="事后审计" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;fontSize=14;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="500.5" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yUZWdAdQWNEDosU1-CC6-13" target="yUZWdAdQWNEDosU1-CC6-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-13" value="数据准备" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="249.5" y="344" width="110.5" height="46" as="geometry" />
