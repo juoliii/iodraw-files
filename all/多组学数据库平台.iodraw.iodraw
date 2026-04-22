@@ -92,7 +92,7 @@
           <mxGeometry x="1000" y="500" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="759" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="930" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-36" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-35">
           <mxGeometry x="60" width="60" height="80" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="563" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="649" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-39" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-38">
           <mxGeometry x="60" width="60" height="80" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-41" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="366" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="399" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-42" value="MySQL&lt;br&gt;DB" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-41">
           <mxGeometry x="60" width="60" height="80" as="geometry" />
