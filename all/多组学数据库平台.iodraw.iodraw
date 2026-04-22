@@ -193,7 +193,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-20" value="用户角色管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
           <mxGeometry x="14.5" y="90.5" width="88.5" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-21" value="注册登陆" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-21" value="基因检索" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
           <mxGeometry x="15.5" y="35.5" width="87.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-64" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
