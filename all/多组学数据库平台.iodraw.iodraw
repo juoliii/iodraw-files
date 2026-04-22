@@ -187,7 +187,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-64" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="510" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-65" value="任务监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-65" value="任务结果查看" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490.5" y="510" width="170" height="46" as="geometry" />
         </mxCell>
       </root>
