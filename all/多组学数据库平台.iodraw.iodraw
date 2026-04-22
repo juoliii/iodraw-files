@@ -22,9 +22,6 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="740" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="717" y="308.5" width="123" height="261.5" as="geometry" />
-        </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-10" value="流量监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;fontSize=14;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="254.5" width="90" height="90" as="geometry" />
         </mxCell>
@@ -33,15 +30,6 @@
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-12" value="事后审计" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;fontSize=14;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="500.5" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-19" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="453.5" width="87.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-20" value="用户角色管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="731.5" y="399" width="88.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-21" value="注册登陆" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="344" width="87.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-22" value="服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="192" width="210" height="52" as="geometry" />
@@ -157,11 +145,8 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-60" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.55;dx=27.77;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="565" y="130" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-64" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="510" width="87.5" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="308.5" width="134" height="261.5" as="geometry" />
+          <mxGeometry x="380" y="308.5" width="134" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
           <mxGeometry width="134" height="261.5" as="geometry" />
@@ -210,6 +195,24 @@
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-63" value="数据检索" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-73">
           <mxGeometry x="15" y="145" width="111" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="717" y="308.5" width="123" height="261.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+          <mxGeometry width="123" height="261.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-19" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+          <mxGeometry x="15.5" y="145" width="87.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-20" value="用户角色管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+          <mxGeometry x="14.5" y="90.5" width="88.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-21" value="注册登陆" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+          <mxGeometry x="15.5" y="35.5" width="87.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-64" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+          <mxGeometry x="15.5" y="201.5" width="87.5" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
