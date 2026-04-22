@@ -146,7 +146,7 @@
           <mxGeometry x="565" y="130" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1173" y="344.5" width="134" height="261.5" as="geometry" />
+          <mxGeometry x="520" y="308.5" width="134" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
           <mxGeometry width="134" height="261.5" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="14.383561643835616" y="145" width="106.43835616438355" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-75" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="649" y="308.5" width="123" height="261.5" as="geometry" />
+          <mxGeometry x="670" y="309" width="123" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="智能检索" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
           <mxGeometry width="123" height="261.5" as="geometry" />
