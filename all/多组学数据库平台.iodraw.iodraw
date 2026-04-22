@@ -184,7 +184,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-75" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="717" y="308.5" width="123" height="261.5" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="智能检索" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
           <mxGeometry width="123" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-19" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
