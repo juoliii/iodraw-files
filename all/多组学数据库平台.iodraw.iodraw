@@ -25,9 +25,6 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-7" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="234" y="309.5" width="146" height="260.5" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="308.5" width="134" height="261.5" as="geometry" />
-        </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-9" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="717" y="308.5" width="200" height="261.5" as="geometry" />
         </mxCell>
@@ -48,15 +45,6 @@
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-15" value="数据下载" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="248.5" y="510" width="111.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-16" value="任务监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="453.5" width="98.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-17" value="任务处理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="399" width="99.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-18" value="任务提交" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="344" width="98.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-19" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="453.5" width="170" height="46" as="geometry" />
@@ -187,8 +175,23 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-64" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="510" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-65" value="任务结果查看" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="510" width="99.5" height="46" as="geometry" />
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="476" y="308.5" width="134" height="261.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
+          <mxGeometry width="134" height="261.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-16" value="任务监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
+          <mxGeometry x="15.5" y="145" width="98.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-17" value="任务处理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
+          <mxGeometry x="14.5" y="90.5" width="99.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-18" value="任务提交" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
+          <mxGeometry x="15.5" y="35.5" width="98.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-65" value="任务结果查看" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
+          <mxGeometry x="14.5" y="201.5" width="99.5" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
