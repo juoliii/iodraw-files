@@ -163,21 +163,6 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-65" value="任务结果查看" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-67">
           <mxGeometry x="14.5" y="201.5" width="99.5" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-68" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="566" y="309" width="123" height="261.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-69" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="581.5" y="454" width="87.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-70" value="数据质控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580.5" y="399.5" width="88.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-71" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="581.5" y="344.5" width="87.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-72" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="581.5" y="510.5" width="87.5" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-73" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="309.5" width="146" height="260.5" as="geometry" />
         </mxCell>
@@ -212,6 +197,24 @@
           <mxGeometry x="15.5" y="35.5" width="87.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-64" value="系统运维" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-75">
+          <mxGeometry x="15.5" y="201.5" width="87.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="566" y="309" width="123" height="261.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-68" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-76">
+          <mxGeometry width="123" height="261.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-69" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-76">
+          <mxGeometry x="15.5" y="145" width="87.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-70" value="数据质控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-76">
+          <mxGeometry x="14.5" y="90.5" width="88.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-71" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-76">
+          <mxGeometry x="15.5" y="35.5" width="87.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-72" value="数据下载" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-76">
           <mxGeometry x="15.5" y="201.5" width="87.5" height="46" as="geometry" />
         </mxCell>
       </root>
