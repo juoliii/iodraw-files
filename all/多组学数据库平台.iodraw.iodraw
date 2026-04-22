@@ -20,10 +20,10 @@
           <mxGeometry x="60" y="780" width="1040" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="290" width="740" height="240" as="geometry" />
+          <mxGeometry x="210" y="290" width="740" height="290" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-7" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="234" y="309.5" width="200" height="200" as="geometry" />
+          <mxGeometry x="234" y="309.5" width="200" height="250.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-8" value="在线分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="476" y="308.5" width="200" height="200" as="geometry" />
