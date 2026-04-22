@@ -64,7 +64,7 @@
         <mxCell id="yUZWdAdQWNEDosU1-CC6-20" value="用户/角色管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="731.5" y="399" width="170" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="yUZWdAdQWNEDosU1-CC6-21" value="注册登陆与审批" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="yUZWdAdQWNEDosU1-CC6-21" value="注册登陆" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="344" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-22" value="服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
