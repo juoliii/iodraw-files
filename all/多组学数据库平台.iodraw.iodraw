@@ -50,10 +50,10 @@
           <mxGeometry x="248.5" y="510" width="111.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-16" value="任务监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="453.5" width="170" height="46" as="geometry" />
+          <mxGeometry x="491.5" y="453.5" width="98.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-17" value="任务处理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490.5" y="399" width="109.5" height="46" as="geometry" />
+          <mxGeometry x="490.5" y="399" width="99.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-18" value="任务提交" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;fontSize=14;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="491.5" y="344" width="98.5" height="46" as="geometry" />
