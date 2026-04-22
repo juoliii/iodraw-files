@@ -218,7 +218,7 @@
           <mxGeometry x="15.5" y="201.5" width="87.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="827" y="314.25" width="123" height="261.5" as="geometry" />
+          <mxGeometry x="867" y="310" width="123" height="261.5" as="geometry" />
         </mxCell>
         <mxCell id="yUZWdAdQWNEDosU1-CC6-77" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="yUZWdAdQWNEDosU1-CC6-82">
           <mxGeometry width="123" height="261.5" as="geometry" />
